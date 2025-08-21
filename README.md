@@ -2,7 +2,7 @@
 
 - 💻 Backend-developer / Code Enthusiast
 - 🚀 Делаю разные pet проекты для души и изучаю backend-инфраструктуру  
-- 📫 Как связаться: georgytoper@gmail.com
+- 📫 Как связаться: georgypython@proton.me
 
 ### 🛠 Стек
 ![Python](https://img.shields.io/badge/Python_3.10+-3776AB?logo=python&logoColor=white)
