@@ -17,5 +17,6 @@
 ![Aiogram](https://img.shields.io/badge/Aiogram-2CA5E0?logo=telegram&logoColor=white)
 
 ### 📌 Избранные проекты
+- [Event tree architect](https://github.com/thetrueryan/event_trees) — Редактор древ событий-сенариев с наследием (FastAPI приложение)
 - [Qeele Voice Assistant](https://github.com/thetrueryan/QEELE_VOICE_ASSISTANT) — голосовой ассистент с интеграцией LLM и YouTube  
 - [JG Private Servers](https://github.com/thetrueryan/JG_PRIVATE_SERVERS) — Telegram-бот магазин VPS серверов
