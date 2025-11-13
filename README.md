@@ -1,10 +1,10 @@
-# Привет 👋, я Гера | thetrueryan!
+# Hello 👋, I'm Gera | thetrueryan!
 
 - 💻 Backend-developer / Code Enthusiast
-- 🚀 Делаю разные pet проекты для души и изучаю backend-инфраструктуру  
-- 📫 Как связаться: georgypython@proton.me
+- 🚀 Create some projects and learn Backend infrastructure  
+- 📫 Email: georgypython@proton.me
 
-### 🛠 Стек
+### 🛠 My stack
 ![Python](https://img.shields.io/badge/Python_3.10+-3776AB?logo=python&logoColor=white)
 ![Asyncio](https://img.shields.io/badge/Asyncio-3C78A9?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
@@ -20,8 +20,8 @@
 ![Aiogram](https://img.shields.io/badge/Aiogram-2CA5E0?logo=telegram&logoColor=white)
 
 
-### 📌 Избранные проекты
-- [Schedule Parser Bot](https://github.com/thetrueryan/schedule_parser_bot) — Парсер расписания с сайта **Dnevnik.ru** с отправкой в Telegram бота (Aiogram, Selenium)
-- [Event tree architect](https://github.com/thetrueryan/event_trees) — Редактор древ событий-сенариев с наследием (FastAPI приложение)
-- [Qeele Voice Assistant](https://github.com/thetrueryan/QEELE_VOICE_ASSISTANT) — голосовой ассистент с интеграцией LLM и YouTube (Vosk, OpenAI)
-- [JG Private Servers](https://github.com/thetrueryan/JG_PRIVATE_SERVERS) — Telegram-бот магазин на Aiogram по продаже VPS-серверов (Aiogram)
+### 📌 My favourite projects
+- [Schedule Parser Bot](https://github.com/thetrueryan/schedule_parser_bot) — Shedule scrapper for college from **Dnevnik.ru** with sending to Telegram Bot (Aiogram, Selenium)
+- [FastAPI Event trees](https://github.com/thetrueryan/event_trees) — FastAPI app to create and edit tree-structure like chains of events
+- [FastAPI organizations app](https://github.com/thetrueryan/fastapi-organizations-app) — FastAPI app for organizations managament & searching with JWT auth via FastAPI-users
+- [JG Private Servers](https://github.com/thetrueryan/my-fastapi-template) — Just My default FastAPI template which I prefer use in my projects (I like it)
