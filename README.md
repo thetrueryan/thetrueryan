@@ -21,7 +21,7 @@
 
 
 ### 📌 My favourite projects
-- [](https://github.com/thetrueryan/fastapi-habbits) — My FastAPI application to tracking and learning new habbits (Like Atomic Habbits strategy)
+- [FastAPI Atomic Habbits](https://github.com/thetrueryan/fastapi-habbits) — My FastAPI application to tracking and learning new habbits (Like Atomic Habbits strategy)
 - [Schedule Parser Bot](https://github.com/thetrueryan/schedule_parser_bot) — Shedule scrapper for college from **Dnevnik.ru** with sending to Telegram Bot (Aiogram, Selenium)
 - [FastAPI Event trees](https://github.com/thetrueryan/event_trees) — FastAPI app to create and edit tree-structure like chains of events
 - [FastAPI organizations app](https://github.com/thetrueryan/fastapi-organizations-app) — FastAPI app for organizations managament & searching with JWT auth via FastAPI-users
