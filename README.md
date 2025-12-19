@@ -2,7 +2,6 @@
 
 - 💻 Backend-developer / Code Enthusiast
 - 🚀 Create some projects and learn Backend infrastructure  
-- 📫 Email: georgypython@proton.me
 
 ### 🛠 My stack
 ![Python](https://img.shields.io/badge/Python_3.10+-3776AB?logo=python&logoColor=white)
