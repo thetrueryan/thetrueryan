@@ -1,7 +1,7 @@
 # Hello 👋, I'm Gera | thetrueryan!
 
-- 💻 Backend-developer / Code Enthusiast
-- 🚀 Create some projects and learn Backend infrastructure  
+- 💻 Backend / Fullstack Developer
+- 🚀 Create some projects and learn new technologies
 
 ### 🛠 My stack
 ![Python](https://img.shields.io/badge/Python_3.10+-3776AB?logo=python&logoColor=white)
