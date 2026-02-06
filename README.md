@@ -1,6 +1,6 @@
 # Hello 👋, I'm Gera | thetrueryan!
 
-- 💻 Backend / Fullstack Developer
+- 💻 Backend / Infra Developer
 - 🚀 Create some projects and learn new technologies
 
 ### 🛠 My stack
@@ -21,9 +21,6 @@
 
 
 
-### 📌 My favourite projects
-- [FastAPI Atomic Habbits](https://github.com/thetrueryan/fastapi-habbits) — My FastAPI application to tracking and learning new habbits (Like Atomic Habbits strategy)
-- [Schedule Parser Bot](https://github.com/thetrueryan/schedule_parser_bot) — Shedule scrapper for college from **Dnevnik.ru** with sending to Telegram Bot (Aiogram, Selenium)
-- [FastAPI Event trees](https://github.com/thetrueryan/event_trees) — FastAPI app to create and edit tree-structure like chains of events
-- [FastAPI organizations app](https://github.com/thetrueryan/fastapi-organizations-app) — FastAPI app for organizations managament & searching with JWT auth via FastAPI-users
-- [FastAPI-template](https://github.com/thetrueryan/my-fastapi-template) — Just My default FastAPI template which I prefer use in my projects (I like it)
+### 📌 My FastAPI template for quickstart FastAPI projects
+- [FastAPI-template](https://github.com/thetrueryan/my-fastapi-template) — My default template for FastAPI applications. Unclude base project infrastructure: Settings, DI (dishka), docker-compose, etc.
+
